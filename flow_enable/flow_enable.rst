@@ -1,8 +1,8 @@
-.. _flow_enable:
+.. _flow_enable_and_lab_setup:
 
--------------
-Flow: Enable
--------------
+--------------------------
+Flow: Enable and Lab Setup
+--------------------------
 
 Overview
 ++++++++
@@ -16,7 +16,7 @@ In this exercise you will enable Nutanix Flow, formally known as Microsegmentati
 Enabling Microsegmentation
 ++++++++++++++++++++++++++
 
-Open https://<Prism-Central-IP>:9440/ in the Chrome browser and log in. 
+Open https://<Prism-Central-IP>:9440/ in the Chrome browser and log in.
 
 .. note::
 
@@ -43,7 +43,7 @@ Create Five VMs
 
 .. note::
 
-  Skip this VM creation section if you have already created the Flow VMs as part of the Lab - Deploying Workloads exercise.
+  Please use the VM you created in the "Deploy VM Lab", and make 4 clones. Otherwise follow the instructions to create a VM and clone it.
 
 Now you will create the **five** virtual machines you will use to test the capabilities of Nutanix Flow. Create these virtual machines from the base VM in Prism Central called CentOS.
 
