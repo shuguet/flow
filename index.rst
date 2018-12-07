@@ -41,7 +41,7 @@ What's New
 ++++++++++
 
 - Workshop updated for the following software versions:
-  - AOS & PC 5.10.x
+    - AOS & PC 5.10.x
 
 - Optional Lab Updates:
 
