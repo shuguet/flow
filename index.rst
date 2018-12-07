@@ -1,4 +1,12 @@
-.. title:: Nutanix Flow
+.. title:: Nutanix Flow Labs
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Nutanix Flow
+  :name: _nutanix_flow
+  :hidden:
+
+  what_is_flow/what_is_flow
 
 .. toctree::
   :maxdepth: 2
@@ -6,7 +14,6 @@
   :name: _flow_labs
   :hidden:
 
-  what_is_flow/what_is_flow
   flow_enable/flow_enable
   flow_quarantine_vm/flow_quarantine_vm
   flow_isolate_environments/flow_isolate_environments
@@ -28,14 +35,43 @@
 Getting Started
 ---------------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, ultrices sed elementum vitae, dictum eget turpis. Etiam ultrices orci quis tempus tempus. Nulla non nibh imperdiet, suscipit risus quis, eleifend nisl. Morbi at posuere nibh, quis bibendum dui. Morbi dictum sem a ipsum bibendum condimentum. Suspendisse id ante gravida, efficitur leo a, consequat enim. Suspendisse tempor lorem vel purus scelerisque, vel facilisis lorem consequat. Pellentesque augue orci, iaculis vel mollis sit amet, scelerisque a tellus. Aliquam commodo in lectus feugiat porta.
+Welcome to the Nutanix Flow Labs! This workbook accompanies an instructor-led session that introduces Nutanix Flow and many common management tasks. Each section has a lesson and an exercise to give you hands-on practice. The instructor explains the exercises and answers any additional questions that you may have.
 
 What's New
 ++++++++++
 
 - Workshop updated for the following software versions:
-  - AOS 5.6
-  - Prism Central 5.6
+  - AOS & PC 5.10.x
+
+- Optional Lab Updates:
+
+Agenda
+++++++
+
+- Nutanix Flow
+    - What Is Flow
+
+- Nutanix Flow Labs
+    - Flow: Enable
+    - Flow: Quarantine VM
+    - Flow: Isolate Environments
+    - Flow: Secure App
+    - Flow: Visualization
+
+- Optional Labs
+
+
+Introductions
++++++++++++++
+
+- Name
+- Familiarity with Nutanix
+
+Initial Setup
++++++++++++++
+
+- Take note of the *Passwords* being used.
+- Log into your virtual desktops (connection info below)
 
 Access Instructions
 +++++++++++++++++++
